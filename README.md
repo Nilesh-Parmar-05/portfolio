@@ -31,7 +31,7 @@ The GitHub Pages site is set up to **redirect from the root to the `/src/` folde
 Feel free to reach out via:
 
 - **LinkedIn**: [linkedin.com/in/nilesh-parmar-05](https://linkedin.com/in/nilesh-parmar-05)
-- **Email**: nileshparmar2005@gmail.com (replace with actual email)
+- **Email**: nileshparmar2005@gmail.com
 
 ---
 
