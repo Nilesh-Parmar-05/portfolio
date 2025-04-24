@@ -10,7 +10,8 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 - HTML5
 - CSS3
 - JavaScript
-- GitHub Pages for hosting
+- GitHub Pages
+- Netlify for Hosting
 
 ## 🚀 How to View Locally
 
